@@ -1,0 +1,5 @@
+*.jar
+*.apk
+keystore
+out/*
+!out/.gitkeep
